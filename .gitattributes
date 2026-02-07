@@ -1,0 +1,2 @@
+recsys_project/data/**/*.csv filter=lfs diff=lfs merge=lfs -text
+recsys_project/data/**/*.pkl filter=lfs diff=lfs merge=lfs -text

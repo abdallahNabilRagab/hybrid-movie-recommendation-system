@@ -17,7 +17,7 @@ joblib
 # Visualization
 matplotlib
 seaborn
-altair  # Added for Streamlit charts
+altair==4.2.2  # fixed for Streamlit compatibility
 
 # Web / UI
 streamlit
